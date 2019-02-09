@@ -1,0 +1,10 @@
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\bin\Debug\ConsoleApp63.exe.config
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\bin\Debug\ConsoleApp63.exe
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\bin\Debug\ConsoleApp63.pdb
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\bin\Debug\WebDriver.dll
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\bin\Debug\WebDriver.xml
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\obj\Debug\ConsoleApp63.csprojAssemblyReference.cache
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\obj\Debug\ConsoleApp63.csproj.CoreCompileInputs.cache
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\obj\Debug\ConsoleApp63.csproj.CopyComplete
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\obj\Debug\ConsoleApp63.exe
+C:\Users\AronThomasMiller\source\repos\ConsoleApp63\ConsoleApp63\obj\Debug\ConsoleApp63.pdb
